@@ -19,7 +19,7 @@
 
 1. Start Redis, Postgres, Mongo DB(in detach mode)
     ```
-        docker compose up -d
+    docker compose up -d
     ```
 2. Open `Lab1-bds` in Vs code or Jypyter
 3. Select Python interpreter from VS Code/Jupyter(the one created above)
