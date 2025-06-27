@@ -1,0 +1,5 @@
+redis==6.2.0
+psycopg[binary]==3.2.9
+pandas==2.3.0
+pymongo==4.13.2
+pyspark[connect]==4.0.0
