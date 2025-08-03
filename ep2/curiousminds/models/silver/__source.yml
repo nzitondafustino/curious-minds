@@ -1,0 +1,6 @@
+sources:
+  - name: battery
+    database: adw_curious_minds 
+    schema: bronze
+    tables:
+      - name: battery_lifecyle
